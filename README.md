@@ -4,7 +4,8 @@ Copy the JSON down and paste in repl and hiroku then fill the vars
 
 ```
 {
-  "SESSION_ID": "ID",
+  "SESSION_ID": "ID"Dark-Nero;;;RolfskyReaders
+,
   "OWNER_NUMBER": "94723737086",
   "OWNER_NAME": "chamiya",
   "OPENAI_API_KEY": "null",
