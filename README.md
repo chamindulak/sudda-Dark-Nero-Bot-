@@ -5,16 +5,16 @@ Copy the JSON down and paste in repl and hiroku then fill the vars
 ```
 {
   "SESSION_ID": "ID",
-  "OWNER_NUMBER": "94774071805",
-  "OWNER_NAME": "kaveesha",
+  "OWNER_NUMBER": "94723737086",
+  "OWNER_NAME": "chamiya",
   "OPENAI_API_KEY": "null",
   "MONGODB_URI": "mongodb://mongo:Kx3SgXwvW4AkhXZQMDwx@containers-us-west-48.railway.app:5828",
   "PACK_INFO": "Dark;Nero",
   "PREFIX": ".",
-  "AUTO_REACTION": false,
-  "READ_MESSAGE" : true,
+  "AUTO_REACTION": true,
+  "READ_MESSAGE" : false,
    "THEME" : 'Dark-Nero',
-  "ALWAYS_ONLINE": 'true'
+  "ALWAYS_ONLINE": 'false'
 
    
 }
